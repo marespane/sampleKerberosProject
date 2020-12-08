@@ -1,0 +1,7 @@
+apiVersion: krb-operator.novakov-alexey.github.io/v1
+kind: KrbServer
+metadata:
+  name: my-krb
+  namespace: ${app_namespace}
+spec:
+  realm: TEST.CONFLUENT.IO
