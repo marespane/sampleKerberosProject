@@ -19,7 +19,7 @@
                 <configuration>
                     <resources>
                         <customResourceDefinitions>
-                            <customResourceDefinition>krbservers.krb-operator.novakov-alexey.github.io</customResourceDefinition>
+                            <customResourceDefinition>testresources.insujang.github.io</customResourceDefinition>
                         </customResourceDefinitions>
                     </resources>
                 </configuration>
